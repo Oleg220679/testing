@@ -1,4 +1,5 @@
 <?php
 print 'oleg';
-print'roma';
+print 'roma';
+print 'tanya';
 ?>
