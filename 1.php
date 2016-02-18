@@ -1,4 +1,4 @@
 <?php
-print 'oleg';
-print'roma';
+print 'oleg1';
+print'roma1';
 ?>
